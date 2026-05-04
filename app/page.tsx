@@ -306,7 +306,7 @@ function TimelineSection() {
       buttonLabel: "Ver momento",
     },
     {
-      time: "13:30",
+      time: "14:00",
       title: "Celebración en La Cigüeña",
       short: "Seguimos la fiesta todos juntos.",
       description:
